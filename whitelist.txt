@@ -7,14 +7,10 @@ paloma
 5dbfefe0-c27b-4dcb-9cae-ff0d03a6220a
 braulio
 6df64772-a0a5-485f-897d-5849a13308d0
-Bastian
-b80ffef8-c08f-4c0e-a15c-49800cbfc620
 nozi
 ffa357c0-f4cd-4e44-9749-6a815982d112
 alexis
 72bfc496-87f2-46da-87fa-6e106437dc83
-hacha
-e45a9fc9-d20b-4404-9bef-ca6c76224aa3
 fernando
 4465516e-e841-431a-935b-d45ca106251f
 Reisor
